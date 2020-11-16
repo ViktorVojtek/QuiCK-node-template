@@ -5,3 +5,7 @@ node_modules
 # lock files
 
 yarn.lock
+
+# mac OS related
+
+.DS_Store
