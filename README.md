@@ -19,8 +19,8 @@ This project comes with some default folder structure and some basic files in `.
 
 `yarn production` or `npm run production`
 
-> This projects use [forever](https://github.com/foreverjs/forever#readme) CLI for continuous script run.
-> Make sure you have it installed globaly or to use other modify the "production" script command in package.json file in the root of the project.
+> This project use [forever](https://github.com/foreverjs/forever#readme) CLI for continuous script run.
+> Make sure you have it installed globaly or to use other, modify the "production" script command in package.json file in the root directory.
 
 ## License
 
