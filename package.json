@@ -1,0 +1,16 @@
+{
+  "name": "QuiCK-node-template",
+  "version": "1.0.0",
+  "main": "./server/quick-server.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./server/bastion.js",
+    "production": "NODE_ENV=produciton forever start ./server/quick-server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.2.0"
+  }
+}
